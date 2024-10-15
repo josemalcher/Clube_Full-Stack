@@ -4722,6 +4722,29 @@ Com esses exemplos, você pode ver como utilizar `filter_input` para sanitizar e
 
 ## <a name="parte2">2 - Seção 2: PHP para quem entende PHP</a>
 
+### 37 #01 - Para quem é o curso
+
+### 38 #02 - Carregando páginas internas
+
+### 39 #03 - Formulário de contato
+
+### 40 #04 - Validate
+
+### 41 #05 - Tipos de requisição
+
+### 42 #06 - Validate e flash messages
+
+### 43 #07 - Enviando email com PHPMailer
+
+### 44 #08 - Conectando ao banco de dados
+
+### 45 #09 - Função para cadastro
+
+### 46 #10 - Editando registro
+
+### 47 #11 - Função para atualizar
+
+### 48 #12 - Deletando registro
 
 
 [Voltar ao Índice](#indice)

@@ -6,7 +6,7 @@ services:
     ports:
       - "8888:80"
     volumes:
-      - .:/var/www/html
+      - ./Secao02-PHPparaQuemEntendePHP/proj01:/var/www/html
     depends_on:
       - mysql
 
