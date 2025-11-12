@@ -1,12 +1,39 @@
+#version: '3.8'
+#
+#services:
+#  php:
+#    build: .
+#    ports:
+#      - "80:80"
+#    volumes:
+#      - ./Secao02-PHPparaQuemEntendePHP/proj01:/var/www/html
+#    depends_on:
+#      - mysql
+#
+#  mysql:
+#    image: mysql:5.7
+#    restart: always
+#    environment:
+#      MYSQL_DATABASE: 'meu_banco'
+#      MYSQL_USER: 'usuario'
+#      MYSQL_PASSWORD: '123'
+#      MYSQL_ROOT_PASSWORD: '123123'
+#    ports:
+#      - "3306:3306"
+#    volumes:
+#      - mysql-data:/var/lib/mysql
+#
+#volumes:
+#  mysql-data:
 version: '3.8'
 
 services:
   php:
     build: .
     ports:
-      - "8888:80"
+      - "80:80"
     volumes:
-      - ./Secao02-PHPparaQuemEntendePHP/proj01:/var/www/html
+      - ./Secao02-PHPparaQuemEntendePHP/proj01:/var/www
     depends_on:
       - mysql
 

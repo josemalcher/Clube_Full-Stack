@@ -4604,46 +4604,6 @@ Fonte: conversa com o Copilot, 10/10/2024
 (1) Qual a diferença entre os sanitizadores e validadores em PHP?. https://pt.stackoverflow.com/questions/433590/qual-a-diferen%C3%A7a-entre-os-sanitizadores-e-validadores-em-php.
 (2) PHP para iniciantes#36 - Sanitizadores e Validates - YouTube. https://www.youtube.com/watch?v=d5Cyw-CrVv0.
 (3) Validação e Higienização de entradas em PHP - Boteco Digital. https://www.botecodigital.dev.br/php/validacao-higienizacao-de-entradas-php/.
-(4) undefined. http://bit.ly/seja-membro-clube-full-.
-(5) undefined. https://www.getrevue.co/profile/clube.
-(6) undefined. http://bit.ly/site-com-typescript.
-(7) undefined. https://bit.ly/php-profissional-orien.
-(8) undefined. http://bit.ly/php-profissional-youyube.
-(9) undefined. https://bit.ly/php-para-quem-entende-php.
-(10) undefined. https://bit.ly/editando-linha-dinamic.
-(11) undefined. https://bit.ly/sistema-templates-do-z.
-(12) undefined. https://bit.ly/git-e-github-na-pratica.
-(13) undefined. https://bit.ly/criando-query-builder-.
-(14) undefined. https://bit.ly/aulas-de-php.
-(15) undefined. http://bit.ly/typescript-para-iniciantes.
-(16) undefined. http://bit.ly/novidades-php-8.
-(17) undefined. https://bit.ly/ambiente-php-no-windows.
-(18) undefined. http://bit.ly/javascript-iniciantes.
-(19) undefined. http://bit.ly/javascript-fundamental.
-(20) undefined. http://bit.ly/checkout-pagseguro-youtube.
-(21) undefined. http://bit.ly/checkout-transparente-p.
-(22) undefined. http://bit.ly/assinaturas-pagseguro.
-(23) undefined. http://bit.ly/laravel55-youtube.
-(24) undefined. http://bit.ly/lumen-8.
-(25) undefined. http://bit.ly/twig-com-slim-framework.
-(26) undefined. http://bit.ly/twig-com-slim-modulo-02.
-(27) undefined. https://bit.ly/twig-com-slim-modulo-03.
-(28) undefined. https://bit.ly/twig-com-slim-modulo-04.
-(29) undefined. https://bit.ly/twig-com-slim-modulo-05.
-(30) undefined. https://bit.ly/twig-com-slim-modulo-06.
-(31) undefined. https://bit.ly/twig-com-slim-modulo-07.
-(32) undefined. https://bit.ly/twig-com-slim-modulo-08.
-(33) undefined. https://bit.ly/twig-com-slim-modulo-09.
-(34) undefined. https://bit.ly/twig-com-slim-moudlo-10.
-(35) undefined. https://bit.ly/checkout-com-paypal.
-(36) undefined. https://bit.ly/controle-acesso-admini.
-(37) undefined. https://bit.ly/criando-mvc-e-site-do-.
-(38) undefined. https://bit.ly/site-com-painel-admini.
-(39) undefined. https://bit.ly/curso-jwt-com-php.
-(40) undefined. https://bit.ly/loja-virtual-com-php.
-(41) undefined. https://bit.ly/curso-visual-studio-code.
-(42) undefined. http://bit.ly/seja-membro-clube-full-stack.
-(43) undefined. https://bing.com/search?q=.
 (44) Aprenda PHP Orientado a Objetos em 30 minutos. https://www.youtube.com/watch?v=_mBqvoSJIBU.
 (45) PHP Orientado a Objetos - #02 Classes, Atributos e Métodos. https://www.youtube.com/watch?v=eWW5M1n2Pq8.
 (46) PHP Orientado a Objetos - #01 Introdução. https://www.youtube.com/watch?v=hzy_P_H-1CQ.

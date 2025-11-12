@@ -1,5 +1,5 @@
 <?php
-require "../bootstrap.php";
+require('../bootstrap.php');
 ?>
 <!doctype html>
 <html lang="pt-br">
